@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Resume from "../assets/resume.pdf";
+import Resume from "../assets/Resume.pdf";
 
 const Contact = () => {
   const [isVisible, setIsVisible] = useState(false);
