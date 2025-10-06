@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Blog from "../assets/blog.jpg";
 import Ecommerce from "../assets/ecommerce.jpg";
 import Task from "../assets/task.jpg";
-import Weather from "../assets/Weather.png";
+import Weather from "../assets/weather.png";
 import Movie from "../assets/movie.png";
 
 const Projects = () => {
